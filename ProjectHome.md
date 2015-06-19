@@ -1,0 +1,1 @@
+A java implementation of the OpenIGTLink server/client library. This has been tested as an extensible framework.
